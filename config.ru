@@ -1,2 +1,3 @@
-require 'web_hook_to_campfire'
-run Sinatra::Application
+require './lib/campfire'
+require './app'
+run Marvin::App
