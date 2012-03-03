@@ -2,4 +2,4 @@ source :rubygems
 gem 'sinatra'
 gem 'tinder'
 
-gem 'heroku'
+gem 'heroku', :group => :development
