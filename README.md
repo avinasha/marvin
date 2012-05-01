@@ -1,6 +1,6 @@
 SupportBee Web Hook To Campfire
 
-Adding campfire support to SupportBee is very using SupportBee's web hook feature. Fork this repo and host it on heroku to get going. 
+Adding campfire support to SupportBee is very easy using SupportBee's web hook feature. Fork this repo and host it on heroku to get going. 
 
 # Setting up Campfire configuration
 
@@ -18,4 +18,4 @@ Once you push the app to heroku, add the following URL in the web hook screen of
 http://<heroku_app_url>/supportbee
 ```
 
-A campfire notification will be sent every time there is a new ticket.
+**A campfire notification will be sent every time there is a new ticket.**
