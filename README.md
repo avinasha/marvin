@@ -2,7 +2,7 @@ SupportBee Web Hook To Campfire
 
 Adding campfire support to SupportBee is very using SupportBee's web hook feature. Fork this repo and host it on heroku to get going. 
 
-h1. Setting up Campfire configuration
+# Setting up Campfire configuration
 
 You can setup your campfire account by setting specific ENV variables on heroku
 
